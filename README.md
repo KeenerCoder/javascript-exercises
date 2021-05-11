@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # javascript-exercises
 Some JavaScript exercises from TheOdinProject
-=======
 These are a series of JavaScript exercises intended to be used alongside the curriculum at 'The Odin Project'. They start simple and easy but get more complex and involved as you progress through them.
 
 There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified. However, there are a few exercises that make a good "starting point". Feel free to at least start with these:
@@ -27,4 +25,3 @@ Solutions for these exercises can be found in this repo on the 'solutions' branc
 ## A quick note!
 
 The exercise `generator-exercise` is not actually an exercise; it is a script that generates exercises. It was created to help efficiently write these exercises.
->>>>>>> 8b81881 (Initial Commit from clone)
