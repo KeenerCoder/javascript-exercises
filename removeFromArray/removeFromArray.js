@@ -8,10 +8,8 @@ const removeFromArray = function (array, ...remove) {
       if (indexOfItemToRemove > -1) {
          list.splice(indexOfItemToRemove, 1);
       }
-
    }
    return list;
-
 }
 
 module.exports = removeFromArray
