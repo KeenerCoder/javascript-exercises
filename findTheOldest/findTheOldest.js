@@ -1,4 +1,7 @@
-let findTheOldest = function() {
+let findTheOldest = function (people) {
+   people.forEach(person => {
+
+   });
 
 }
 
